@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" minWidth="955" minHeight="600" xmlns:views="com.kensodev.views.*" xmlns:kensodev="com.kensodev.*">
+	
+	<kensodev:ApplicationContext contextView="{this}" />
+	<views:MainWindow id="mainWindow" />
+	
+</mx:Application>
+
