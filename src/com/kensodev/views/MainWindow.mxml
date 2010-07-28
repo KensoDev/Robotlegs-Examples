@@ -10,5 +10,5 @@
 		]]>
 	</mx:Script>
 
-	<mx:Button id="myPushButton" click="myPushButton_clickHandler(event)" />
+	<mx:Button id="myPushButton" click="myPushButton_clickHandler(event)" label="Click me!" />
 </mx:Canvas>
